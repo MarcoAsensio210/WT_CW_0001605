@@ -1,4 +1,4 @@
-Hosting URL: https://timely-gaufre-20fe2a.netlify.app
+Hosting URL: https://frolicking-semolina-ad4a47.netlify.app
 
 Brief information about the project: 
 
